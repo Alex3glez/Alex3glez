@@ -1,63 +1,82 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Alejandro%20González&fontSize=80&fontColor=00f2ff&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=280&section=header&text=ALEJANDRO%20GONZÁLEZ&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Dev%20%7C%20AI%20Apprentice&descSize=25&descAlignY=65&descAlign=50" alt="Header Animado" />
 </div>
 
 <div align="center">
-  <h3>⚡ Full Stack Developer | AI & Deep Learning Student</h3>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" />
+</div>
+
+---
+
+### <div align="center">🚀 READY TO CODE</div>
+
+<div align="center">
   
   <a href="https://www.linkedin.com/in/alex3glez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alejandro.glez.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+<br/>
+
+> **👋 ¡Hola! Soy Alejandro.**
+>
+> Acabo de aterrizar en el mundo del desarrollo tras graduarme como **Full Stack Developer** en el Bootcamp de 4Geeks Academy. 
+>
+> No soy un experto (todavía), pero soy un **Junior con "hambre"**. Mientras otros paran, yo sigo formándome: actualmente compagino un **Grado Superior en Desarrollo Web (DAW)** con un **Máster en Inteligencia Artificial**.
+>
+> Busco mi primera gran oportunidad para demostrar que la disciplina y la capacidad de aprendizaje valen tanto como la experiencia.
+
+---
+
+### ⚡ MI ARSENAL TECNOLÓGICO
+
+*Aquí es donde ocurre la magia. Mis herramientas actuales:*
+
+<div align="center">
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,python,flask,postgres,sqlite,git,github,docker,vscode&perline=7" />
   </a>
   <br/><br/>
 </div>
 
 ---
 
+### 🧬 FORMACIÓN EN CURSO (NON-STOP LEARNING)
+
+| Estado | Título | Centro |
+| :---: | :--- | :--- |
+| 🟢 **En curso** | **Máster en Desarrollo con IA** | *BIG School / Universidad Isabel I* |
+| 🟢 **En curso** | **Técnico Superior DAW** | *IES José Planes* |
+| ✅ **Completado**| **Bootcamp Full Stack Developer** | *4Geeks Academy* |
+
+---
+
+### 💎 PROYECTO ESTRELLA: 4GIIFTS
+
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" />
+  <img src="https://media.giphy.com/media/L8K62iKT79hW4/giphy.gif" width="100" align="right" /> 
 </div>
 
-### 👨‍💻 Perfil Profesional
+**🎁 [4Giifts - Tu Asistente de Regalos con IA](https://github.com/HA-HA-Team/Final_Project-4Giifts)**
 
-Soy un **Desarrollador Full Stack** especializado en el ecosistema **Python y React**, con un fuerte enfoque en la integración de Inteligencia Artificial en aplicaciones web. 
+> *¿El problema? Nadie sabe qué regalar. ¿La solución? Se la preguntamos a la IA.*
 
-Mi perfil combina una base técnica intensiva adquirida en el **Bootcamp de 4Geeks Academy** con una formación académica continua y especializada. Actualmente, estoy cursando un **Máster en Desarrollo con IA** y el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**, lo que me permite estar actualizado en las últimas arquitecturas de software y modelos generativos.
+Desarrollé esta aplicación para resolver un problema real. Integra la **API de Google Generative AI** para analizar perfiles y sugerir el regalo perfecto.
 
-Me caracterizo por la escritura de código limpio, la capacidad de adaptación a nuevas tecnologías y una metodología de trabajo orientada a objetivos y resolución de problemas.
-
-<br clear="right"/>
-
----
-
-### 🛠️ Stack Tecnológico
-
-<div align="center">
-
-| **Frontend** | **Backend & AI** | **Tools & Cloud** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" /> | <img src="https://skillicons.dev/icons?i=python,flask,nodejs,postgres,mysql" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,postman" /> |
-
-</div>
-
----
-
-### 🚀 Proyecto Destacado
-
-#### 🎁 [4Giifts - AI Powered Gifting](https://github.com/HA-HA-Team/Final_Project-4Giifts)
-> *Aplicación Web SPA para la recomendación de regalos personalizados mediante Inteligencia Artificial.*
-
-* **Arquitectura:** Full Stack con separación de responsabilidades (React Frontend + Flask API).
-* **Integración IA:** Implementación de **Google Generative AI API** para el motor de recomendación.
-* **Base de Datos:** Modelado relacional complejo con **SQLAlchemy** y autenticación segura vía **JWT**.
-* **Despliegue:** CI/CD básico y gestión de entornos.
+* 🛠 **Tech:** Python, Flask, React, SQLAlchemy.
+* 🧠 **Challenge:** Integrar respuestas de IA generativa en una interfaz de usuario fluida.
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiU1jJJkNCw/giphy.gif" width="100%" height="5" />
   <br/>
-  <sub><i>Open to new challenges in Full Stack & AI Development</i></sub>
+  <img src="https://media.giphy.com/media/26gYsOg5xXVvV5D20/giphy.gif" width="100%" height="200" style="object-fit:cover"/>
+  <br/><br/>
+  <h3>👨‍💻 ¡Hablemos! Estoy listo para aportar valor desde el día 1.</h3>
 </div>
