@@ -34,7 +34,7 @@
         Defino mi perfil por la <strong>capacidad de análisis y la constancia</strong>. Entiendo el desarrollo de software como una disciplina que requiere orden, lógica y actualización permanente.
       </p>
       <p>
-        Soy un <strong>Desarrollador Full Stack Junior</strong> con una base sólida, pero mi enfoque actual va más allá del desarrollo web tradicional. Estoy inmerso en una formación intensiva y simultánea en <strong>Desarrollo con Inteligencia Artificial y Desarrollo de Aplicaciones Web (DAW)</strong>.
+        Soy un <strong>Desarrollador Full Stack</strong> con una base sólida, pero mi enfoque actual va más allá del desarrollo web tradicional. Estoy inmerso en una formación intensiva y simultánea en <strong>Desarrollo con Inteligencia Artificial y Desarrollo de Aplicaciones Web (DAW)</strong>.
       </p>
       <p>
         Busco una oportunidad donde pueda aplicar mi stack actual mientras sigo creciendo.
