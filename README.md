@@ -130,6 +130,7 @@
         <li>Backend en <strong>Python</strong> con gestión de DB mediante <strong>SQLAlchemy</strong>.</li>
         <li>Autenticación segura de usuarios con <strong>JWT</strong>.</li>
         <li>Frontend desarrollado en <strong>React & JavaScript</strong>, estilizado con <strong>Bootstrap</strong>.</li>
+        <li><strong>Deploy: </strong>https://final-project-4giifts.onrender.com/</li>
       </ul>
        <a href="https://github.com/HA-HA-Team/Final_Project-4Giifts">
         <img src="https://img.shields.io/badge/GITHUB-Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
