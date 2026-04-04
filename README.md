@@ -160,7 +160,7 @@
         <li>Implementación y consumo de <strong>APIs REST</strong> para la conexión entre el front-end y el back-end.</li>
         <li><strong>Deploy: </strong>https://reno-usa-frontend.onrender.com/</li>
       </ul>
-       <a href="https://github.com/IgrowkerTraining/1006-reno-usa-fullstack">
+       <a href="https://github.com/IgrowkerTraining/i006-reno-usa-fullstack">
         <img src="https://img.shields.io/badge/GITHUB-Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
       </a>
     </td>
