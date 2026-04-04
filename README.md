@@ -111,13 +111,13 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h3 align="center">🌟 Proyecto Destacado</h3>
+<h3 align="center">🌟 Proyectos Destacados</h3>
 
 <div align="center">
 <table>
   <tr>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="90%" style="border-radius: 10px;" />
+      <img src="https://i.giphy.com/5Y2bU7FqLOuzK.webp" width="90%" style="border-radius: 10px;" />
     </td>
     <td width="60%" valign="top">
       <h3>🎁 <a href="https://github.com/HA-HA-Team/Final_Project-4Giifts">4Giifts - Regalos Personalizados con IA</a></h3>
@@ -133,6 +133,34 @@
         <li><strong>Deploy: </strong>https://final-project-4giifts.onrender.com/</li>
       </ul>
        <a href="https://github.com/HA-HA-Team/Final_Project-4Giifts">
+        <img src="https://img.shields.io/badge/GITHUB-Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://i.giphy.com/hVJZt4rY9TR5rmmqfc.webp" width="90%" style="border-radius: 10px;" />
+    </td>
+    <td width="60%" valign="top">
+      <h3>🏗️ <a href="https://github.com/IgrowkerTraining/1006-reno-usa-fullstack">RENO USA - Gestión de Obras</a></h3>
+      <p>
+        Aplicación Web orientada a la administración, gestión y seguimiento integral de obras.
+      </p>
+      <p><strong>💡 Características Técnicas:</strong></p>
+      <ul>
+        <li>Frontend desarrollado utilizando <strong>React</strong> y <strong>TypeScript</strong>.</li>
+        <li>Interfaz de usuario estilizada y optimizada con <strong>TailwindCSS</strong>.</li>
+        <li>Implementación y consumo de <strong>APIs REST</strong> para la conexión entre el front-end y el back-end.</li>
+        <li><strong>Deploy: </strong>https://reno-usa-frontend.onrender.com/</li>
+      </ul>
+       <a href="https://github.com/IgrowkerTraining/1006-reno-usa-fullstack">
         <img src="https://img.shields.io/badge/GITHUB-Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
       </a>
     </td>
